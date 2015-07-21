@@ -1,0 +1,19 @@
+{
+  "name": "evernaut-node-authentication",
+  "version": "1.0.0",
+  "description": "Streamlined Passport authentication for Evernaut applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evernaut",
+  "license": "MIT",
+  "homepage": "https://evernaut.com",
+  "dependencies": {
+    "config": "^1.14.0",
+    "passport": "^0.2.2",
+    "passport-amazon": "^0.1.0",
+    "passport-facebook": "^2.0.0",
+    "passport-google-oauth": "^0.2.0"
+  }
+}
